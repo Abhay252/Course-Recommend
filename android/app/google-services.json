@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26332843187",
+    "project_id": "skill-route-866e1",
+    "storage_bucket": "skill-route-866e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26332843187:android:49c081bebb2193ad9d34c6",
+        "android_client_info": {
+          "package_name": "com.example.minip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCThrcA3_0m0ZfLRRfL9Zsq1br7pzuxGOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
